@@ -1,0 +1,61 @@
+
+These features are on both the internal and the script unless said otherwise in the gray.
+I won't list every feature we have because the internal has more to keep it buyers-only hidden, but here's a preview of what we have:
+
+Aimbot Features
+
+* Distance check
+* Smoothness
+* Easing style
+* Easing direction
+* Customizable hit-parts such as --// Closest Point, Closest Part, Nearest Point, HitPart Name, or Table (Internal has even more accurate hit-points such as "best point" similar to Osiris.)
+* Closest-Point Modes such as scaled & regular
+* X,Y,Z Prediction editor
+* Customizable FOV
+* Clamp Y Axis --// Use this if shooting ground, stabilizes the Y velocity axis to prevent overshoot. Comes with dynamic option + clamp editor
+* Y Override Axis --// Internal only feature + universal
+* ANTIAIM VIEWER --// This is on automatically inside any game we support so no pesky mods can catch you cheating
+* Humanizer --// Internal only feature + with sample styles
+
+Silent-Aim Features
+
+* Target mode --// Like a dot-lock: you press a button and a line visual appears showing who you're targeting until you unlock
+* FOV MODE 
+* Distance check
+* Checks --// Knocked check, wall-check, etc. The basic necessities. These are on the aimbot as well
+* Client redirection --// Will not redirect the bullet on your screen only. On other people's screens, your bullets will go towards them. Only makes you look legit from YOUR POV
+* Customizable hit-parts such as --// Closest Point, Closest Part, Nearest Point, HitPart Name, or Table (Internal has even more accurate hit-points such as "best point" similar to Osiris.)
+* X,Y,Z Prediction editor
+* Clamp Y Axis --// Use this if shooting ground, stabilizes the Y velocity axis to prevent overshoot. Comes with dynamic option + clamp editor
+* 2D/3D FOV Modes --// FOVs automatically stick to the target and are not followed by your mouse (modes)
+* ANTIAIM VIEWER --// This is on automatically inside any game we support so no pesky mods can catch you cheating
+* Customizable FOV
+* Anti-Curve + Angle editor --// Internal only feature but the script has a built-in anti-curve for most games
+
+Triggerbot Features
+
+* Distance check
+* Cooldown --// Basically triggerbot delay fast / slow
+* X,Y,Z Prediction
+* Activation Modes --// Such as keybind/mouse button to activate the triggerbot & Toggle/Hold mode
+* Customizable FOV --// FOVs automatically stick to the target and are not followed by your mouse
+* 2D FOV Mode --// With 2D prediction
+
+Player Modifications
+
+* Walkspeed
+* Anti-Fall
+* Anti-Trip
+
+Weapon Exploits
+
+* Spread modifications --// You can add any weapon with its full name and the value for it. e.g: \['\[LMG]'] = { \['Value'] = true } etc.
+* Double tap --// Shooting once will shoot 2 bullets, killing your target even faster
+* Weapon delay changer
+* Client redirection
+* Instant kill --// For some remakes
+
++ EVEN MORE. If you aren’t using Ecco, I don’t know what you're waiting for. We are dominating Da Hood including all the remakes. We plan to expand soon, but until then, enjoy.
+
+Link below is a small showcase of our scripts double/tap \ no spread features this video is old keep in mind. be free to look in our media channel
+https://cdn.discordapp.com/attachments/1388179420832862289/1396699475371753512/cachedVideo.mov?ex=68d16f00&is=68d01d80&hm=5a7968ce94297c748a73d4787dd872abcfb5ec73a01925fb608ef4397efcacaa&
